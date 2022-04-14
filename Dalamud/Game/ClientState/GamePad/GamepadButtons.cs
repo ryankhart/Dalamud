@@ -89,7 +89,7 @@ namespace Dalamud.Game.ClientState.GamePad
         Start = 0x8000,
 
         /// <summary>
-        /// Button on the left inner side of the controller. ??? on PS, Back on Xbox.
+        /// Button on the left inner side of the controller. Touchpad on PS, Back on Xbox 360, View on Xbox One and Xbox Series X/S.
         /// </summary>
         Select = 0x4000,
     }
